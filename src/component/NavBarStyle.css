@@ -1,0 +1,10 @@
+.NavBarStyle li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 20px;
+    padding: 15px;
+}
+ li:hover{
+    color: crimson;
+    padding: 15px;
+}
